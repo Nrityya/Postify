@@ -1,0 +1,120 @@
+body {
+    font-size: 14px;
+}
+  .v47_117 {
+    width: 99%;
+    height: 99%;
+    background: url("../search-images/v47_117.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    overflow: hidden;
+  }
+  .v47_126 {
+    width: 100%;
+    height: 74px;
+    background: rgba(251,227,232,0.800000011920929);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 12px 26px rgba(0.8041666746139526, 0.8041666746139526, 0.8041666746139526, 0.2199999988079071);
+    overflow: hidden;
+  }
+  .v47_147 {
+    width: 213px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 13px;
+    left: 35px;
+    font-family: Montserrat;
+    font-weight: ExtraBold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+    text-decoration: none;
+  }
+  .v176_102 {
+    width: 35px;
+    height: 35px;
+    background: url("../search-images/v176_102.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 249px;
+    overflow: hidden;
+  }
+  .v172_139 {
+    width: 35px;
+    height: 35px;
+    background: url("../search-images/v172_139.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 384px;
+    overflow: hidden;
+  }
+  .v172_140 {
+    width: 35px;
+    height: 35px;
+    background: url("../search-images/v172_140.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 519px;
+    overflow: hidden;
+  }
+  .make-post {
+    width: 1000px;
+    height: 500px;
+    background-color: rgba(255,255,255,0.7);
+    position: fixed;
+    margin-top: 120px;
+    margin-left: 200px;
+    border-radius: 5px;
+  }
+  .title {
+    position: relative;
+    top: 20%;
+    text-align: center;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: bold;
+    color: rebeccapurple;
+  }
+  .id, .caption {
+    position: relative;
+    left: 15%;
+    top: 30%;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    z-index: 3;
+  }
+  .submit {
+    position: relative;
+    left: 10%;
+    top: 50%;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rebeccapurple;
+    color: white;
+  }
+  
