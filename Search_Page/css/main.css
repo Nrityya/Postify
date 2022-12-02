@@ -1,0 +1,218 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v204_165 {
+  width: 100%;
+  height: 810px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v204_166 {
+  width: 100%;
+  height: 832px;
+  background: url("../images/v204_166.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  overflow: hidden;
+}
+.v204_167 {
+  width: 100%;
+  height: 832px;
+  background: rgba(255,255,255,0.800000011920929);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v204_168 {
+  width: 100%;
+  height: 832px;
+  background: url("../images/v204_168.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  overflow: hidden;
+}
+.v204_169 {
+  width: 100%;
+  height: 1366px;
+  background: url("../images/v204_169.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v204_170 {
+  width: 100%;
+  height: 74px;
+  background: rgba(251,227,232,0.800000011920929);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 12px 26px rgba(0.8041666746139526, 0.8041666746139526, 0.8041666746139526, 0.2199999988079071);
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v204_172 {
+  width: 25px;
+  height: 27px;
+  background: url("../images/v204_172.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 593px;
+  overflow: hidden;
+}
+.v204_173 {
+  width: 25px;
+  height: 27px;
+  background: rgba(0,0,0,0);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v204_174 {
+  width: 213px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 13px;
+  left: 35px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v204_195 {
+  width: 722px;
+  height: 54px;
+  background: url("../images/v204_195.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 125px;
+  left: 244px;
+  overflow: hidden;
+}
+.v204_196 {
+  width: 712px;
+  height: 90px;
+  background: url("../images/v204_196.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 210px;
+  left: 249px;
+  overflow: hidden;
+}
+.v204_198 {
+  width: 94px;
+  height: 32px;
+  background: url("../images/v204_198.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 239px;
+  left: 841px;
+  overflow: hidden;
+}
+.v204_180 {
+  width: 35px;
+  height: 35px;
+  background: url("../images/v204_180.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  left: 249px;
+  overflow: hidden;
+}
+.v204_181 {
+  width: 35px;
+  height: 35px;
+  background: url("../images/v204_181.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  left: 384px;
+  overflow: hidden;
+}
+.v204_182 {
+  width: 35px;
+  height: 35px;
+  background: url("../images/v204_182.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  left: 519px;
+  overflow: hidden;
+}
+.v204_183 {
+  width: 70px;
+  height: 70px;
+  background: url("../images/v204_183.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 220px;
+  left: 288px;
+  overflow: hidden;
+}
+.v204_199 {
+  width: 80px;
+  height: 20px;
+  background: url("../images/v204_199.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 231px;
+  left: 369px;
+  overflow: hidden;
+}
